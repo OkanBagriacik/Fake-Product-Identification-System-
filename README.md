@@ -32,4 +32,5 @@ Giving the code of the product to see the details of the product.
 <img width="264" alt="4" src="https://user-images.githubusercontent.com/48045619/122286275-58aee400-cef8-11eb-8028-be2e7003b6c7.png">
 Gives information about Retailer. 
 
+This repository is created by https://github.com/OkanBagriacik.
 
