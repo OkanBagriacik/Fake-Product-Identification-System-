@@ -33,5 +33,5 @@ Giving the code of the product to see the details of the product.
 Gives information about Retailer. 
 
 
-This repository is created by OkanBagriacik.
+
 
