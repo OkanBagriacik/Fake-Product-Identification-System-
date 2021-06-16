@@ -22,3 +22,14 @@ The production time, place and manufacturer information of the products produced
 ![DSAFinal](https://user-images.githubusercontent.com/48045619/122279889-3d8ca600-cef1-11eb-899b-233ea43e1602.png)
 
 # RESULTS
+
+<img width="265" alt="1" src="https://user-images.githubusercontent.com/48045619/122286220-4c2a8b80-cef8-11eb-80ef-625b1bcb3eaf.png">
+Getting information about the products which is owned by a spesific customer.
+<img width="266" alt="2" src="https://user-images.githubusercontent.com/48045619/122286237-50ef3f80-cef8-11eb-93b6-0a93e537f3b6.png">
+Getting Customer Information .
+<img width="262" alt="3" src="https://user-images.githubusercontent.com/48045619/122286249-53519980-cef8-11eb-96cc-66f03e1fcf21.png">
+Giving the code of the product to see the details of the product.
+<img width="264" alt="4" src="https://user-images.githubusercontent.com/48045619/122286275-58aee400-cef8-11eb-8028-be2e7003b6c7.png">
+Gives information about Retailer. 
+
+
