@@ -15,7 +15,9 @@ The production time, place and manufacturer information of the products produced
 #STEPS OF USİNG FAKE PRODUCT IDENTIFICATION SYSTEM
 
 1-> Create Product
+
 2-> See the Product Information on Blockchain by Get code
+
 3-> Create a QR Code for the Product
 
 # DIAGRAM OF THE PROJECT
